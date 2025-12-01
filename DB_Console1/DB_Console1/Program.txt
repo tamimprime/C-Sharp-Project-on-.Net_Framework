@@ -1,0 +1,22 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using System.Data.SqlClient;
+
+namespace DB_Console1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string connStr = @"Server=DESKTOP-0L2RAUQ\SQLEXPRESS; Database=VARSITY_DB; Integrated Security=true";
+            SqlConnection conn = new SqlConnection(connStr);
+            conn.Open();
+
+
+        }
+    }
+}

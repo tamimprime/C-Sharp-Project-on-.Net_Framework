@@ -1,0 +1,6 @@
+F:\OOP2\oop2 lab\final_Project_Practice\DB_Console1\Data_Access\bin\Debug\Data_Access.dll
+F:\OOP2\oop2 lab\final_Project_Practice\DB_Console1\Data_Access\bin\Debug\Data_Access.pdb
+F:\OOP2\oop2 lab\final_Project_Practice\DB_Console1\Data_Access\obj\Debug\Data_Access.csproj.AssemblyReference.cache
+F:\OOP2\oop2 lab\final_Project_Practice\DB_Console1\Data_Access\obj\Debug\Data_Access.csproj.CoreCompileInputs.cache
+F:\OOP2\oop2 lab\final_Project_Practice\DB_Console1\Data_Access\obj\Debug\Data_Access.dll
+F:\OOP2\oop2 lab\final_Project_Practice\DB_Console1\Data_Access\obj\Debug\Data_Access.pdb
